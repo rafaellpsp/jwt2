@@ -1,0 +1,14 @@
+# SERVIDOR
+PORT = 
+
+# BANCO DE DADOS
+
+database = 
+user = 
+password = 
+host = 
+dialect = 
+
+# CHAVE TOKEN
+
+tokenKey = 
